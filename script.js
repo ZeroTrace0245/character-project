@@ -2,27 +2,27 @@
 const characters = {
     garfield: {
         name: "Garfield",
-        description: "The lazy, orange tabby cat who loves lasagna and hates Mondays. Known for his witty humor and cynical attitude.",
+        description: "The lazy, orange tabby cat who loves lasagna and hates Mondays.",
         image: "images/garfield.jpg"
     },
     odie: {
         name: "Odie",
-        description: "Garfield's loyal dog friend. Energetic, simple-minded, and always eager to play and have fun.",
+        description: "Garfield's loyal dog friend. Energetic and always eager to play.",
         image: "images/odie.jpg"
     },
     nermal: {
         name: "Nermal",
-        description: "The tiny, cute kitten from Abu Dhabi. Often mocked by Garfield for being too adorable and annoying.",
+        description: "The tiny, cute kitten from Abu Dhabi. Often mocked by Garfield.",
         image: "images/nermal.jpg"
     },
     pooky: {
         name: "Pooky",
-        description: "Garfield's beloved teddy bear and loyal companion. A source of comfort and emotional support.",
+        description: "Garfield's beloved teddy bear and loyal companion.",
         image: "images/pooky.jpg"
     },
     jon: {
         name: "Jon Arbuckle",
-        description: "Garfield's owner and the primary source of humor. A well-meaning but often clueless human.",
+        description: "Garfield's owner and the primary source of humor.",
         image: "images/jon.jpg"
     }
 };
